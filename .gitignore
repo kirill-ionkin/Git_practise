@@ -1,4 +1,4 @@
-*.ipynb_checkpoints
-*.idea
-example_venv
+/.ipynb_checkpoints
+/.idea
+/example_venv
 .pre-commit-config.yaml
